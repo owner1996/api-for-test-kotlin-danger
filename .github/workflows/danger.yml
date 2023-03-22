@@ -1,3 +1,7 @@
+name: My-GitHubActions-Basics
+
+on: [push]
+
 jobs:
   build:
     runs-on: ubuntu-latest
