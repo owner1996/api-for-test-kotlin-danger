@@ -1,7 +1,7 @@
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: "Run Danger"
+    name: "Run-Danger"
     steps:
       - uses: actions/checkout@v1
       - name: Danger
